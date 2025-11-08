@@ -27,7 +27,7 @@ Stay connected and follow my journey on social media:
  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
  
-![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -41,5 +41,6 @@ Stay connected and follow my journey on social media:
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   
-  ![Mohammad Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=umar-9540&show_icons=true&theme=tokyonight)
-  ![Mohammad Umar's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=umar-9540&show_icons=true&locale=en&layout=compact&theme=onedark)
+  ![umar-9540's Streak](https://github-readme-streak-stats.herokuapp.com/?user=umar-9540&theme=vue-dark&hide_border=true)
+  ![umar-9540's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umar-9540&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+  ![umar-9540's Stats](https://github-readme-stats.vercel.app/api?username=umar-9540&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
